@@ -1,1 +1,1 @@
-# gamess
+# snake game
